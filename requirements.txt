@@ -1,0 +1,6 @@
+#Program Requirements:
+
+yfinance
+pandas
+numpy
+scikit-learn
